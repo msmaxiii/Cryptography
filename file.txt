@@ -1,0 +1,27 @@
+LinkedIn was attacked in 2012, where 165 million users were impacted. 6.5 million unassociated passwords (unsalted SHA-1 hashes) had been stolen and  posted on a Russian hacker forum. The hackers concealed their actives until 2016. LinkedIn was aware of the breach and reset the passwords of the affected accounts. LinkedIn didn't do enough because in June 2021 they were hacked again this time by a hacker named "God user" where he used data scraping techniques by exploiting the site of others API before dumping a first information data set of around 500 million customers. The hacker just boasted about what he was doing and claims to have sold 700 million customer databases. LinkedIn claims it didn't happen and that users should beware of suspicious messages and calls. 
+
+
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z----ORIGINAL
+J K L M N O P Q R S T U V W X Y Z A B C D E F G H I
+
+
+ “R UXEN LAHYCXPAJYQH !”
+
+ I LOVE CRYPTOGRAPHY
+
+USE 26 LETTERS IN ALPHABET
+DECIDE ON A STARTING  LETTER
+WRITE THE CODE YOU WANT TO DECRYPT BY USE THE ORIGINAL ALPHABET LINE AND LOOKING BELOW TO CORRESPONDING LETTER
+
+
+function cipher(str){
+ let code = solved(str[0])
+let solution = “”
+for(let i = 0; i < str.length; i++)
+let strValue = code[i].charCodeAt() +decipher
+
+solution +=String.fromCharCode(strValue)
+}
+return solution
+                                                   
